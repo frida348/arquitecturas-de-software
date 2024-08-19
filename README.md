@@ -7,7 +7,7 @@ Este repositorio contiene los proyectos y entregas correspondientes a la asignat
 <div align="center">
 
   <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="integrantes/jaqui.jpeg" width="200" style= "border-radius: 50%" />
+    <img src="integrantes/jaqui.jpeg" width="200" style="border-radius: 50%" />
     <p>Jaqueline Gongora</p>
   </div>
 
