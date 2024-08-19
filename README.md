@@ -6,17 +6,17 @@ Este repositorio contiene los proyectos y entregas correspondientes a la asignat
 
 <div align="center">
 
-  <div style="display: inline-block; text-align: center; ">
+  <div text-align: center; ">
     <img src="integrantes/jaqui.jpeg" width="200"/>
     <p>Jaqueline Gongora</p>
   </div>
 
-  <div style="display: inline-block; text-align: center; ">
+  <div text-align: center; ">
     <img src="integrantes/eyli.jpeg" width="200"/>
     <p>Eyli Burguete</p>
   </div>
 
-  <div style="display: inline-block; text-align: center; ">
+  <div text-align: center; ">
     <img src="integrantes/astrid.jpeg" width="200"/>
     <p>Astrid Osorno</p>
   </div>
@@ -25,12 +25,12 @@ Este repositorio contiene los proyectos y entregas correspondientes a la asignat
 
 <div align="center">
 
-  <div style="display: inline-block; text-align: center; ">
+  <div text-align: center; ">
     <img src="integrantes/cris.jpeg" width="200"/>
     <p>Cristina Villanueva</p>
   </div>
 
-  <div style="display: inline-block; text-align: center; ">
+  <div text-align: center; ">
     <img src="integrantes/fri.jpeg" width="200"/>
     <p>Frida Pineda</p>
   </div>
