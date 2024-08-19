@@ -1,6 +1,6 @@
 # Repositorio de Arquitecturas de Software
 
-Este repositorio contiene los proyectos y entregas correspondientes a la asignatura de Arquitecturas de Software.
+Este repositorio contiene los proyectos y entregas correspondientes a la asignatura de Arquitecturas de Software. 🏛️💻
 
 ## Integrantes de equipo:
 
