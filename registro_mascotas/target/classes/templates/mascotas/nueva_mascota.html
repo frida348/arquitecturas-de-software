@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="https://cdn.tailwindcss.com"></script>
+        <title>Creación de Mascota</title>
+    </head>
+    <body class="bg-gray-100">
+        <div class="container mx-auto my-8 p-4 bg-white rounded shadow-md">
+            <h1 class="text-3xl font-bold text-center mb-8">Crear Nueva Mascota</h1>
+            <!-- Formulario para crear una mascota -->
+            <form action="/mascotas/guardar" method="post" class="space-y-6">
+                
+                <!-- Campo para el nombre de la mascota -->
+                <div>
+                    <label for="nombre" class="block text-lg font-medium text-gray-700">Nombre</label>
+                    <input type="text" id="nombre" name="nombre" class="mt-1 block w-full p-2 border border-gray-300 rounded-md" required>
+                </div>
+
+                <!-- Campo para la edad de la mascota -->
+                <div>
+                    <label for="edad" class="block text-lg font-medium text-gray-700">Edad</label>
+                    <input type="number" id="edad" name="edad" class="mt-1 block w-full p-2 border border-gray-300 rounded-md" required>
+                </div>
+
+                <!-- Campo para la URL de la imagen -->
+                <div>
+                    <label for="urlImagen" class="block text-lg font-medium text-gray-700">URL de Imagen</label>
+                    <input type="url" id="urlImagen" name="urlImagen" class="mt-1 block w-full p-2 border border-gray-300 rounded-md" required>
+                </div>
+
+                <!-- Botón para enviar el formulario -->
+                <div class="text-center">
+                    <button type="submit" class="bg-blue-500 text-white py-2 px-4 rounded hover:bg-blue-600">
+                        Guardar Mascota
+                    </button>
+                </div>
+            </form>
+        </div>
+    </body>
+</html>
